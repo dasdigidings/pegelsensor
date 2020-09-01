@@ -1,5 +1,5 @@
 
-# pegelsensor
+# Pegelsensor
 Version 2.0 als Weiterentwicklung vom alten Sensor
 
 Lochmaß Befestigung Gehäuse V.2
