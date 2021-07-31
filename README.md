@@ -1,3 +1,17 @@
+**Hardware**
+
+ - Ultraschallsensor (MaxBotix) 
+ - Hr-MaxTemp MB7957 Temperatur Sensor
+ - Arduino Pro Mini 3.3 V
+ - RFM 95 Lora
+ - ch2i Board Mini-Lora V1.2
+ - DC/DC Converter
+ - 868 MHz Antenne
+------------------
+ - Netzteil 
+ - Akku / Batterie 
+ - Gehäuse
+
 
 # Pegelsensor
 Version 2.0 und Version 3.0 als Weiterentwicklung vom alten Sensor
