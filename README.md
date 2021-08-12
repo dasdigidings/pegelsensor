@@ -10,10 +10,10 @@
 
  - Ultraschallsensor (MaxBotix) 0,5-10m
  - Hr-MaxTemp MB7957 Temperatur Sensor
- - Arduino Pro Mini 3.3 V
+ - Arduino Pro Mini 3.3 V (Prozessor: ATmega328P 3,3 V 8 MHz)
  - RFM 95 Lora Modul (EU868 Version für Deutschland)
- - ch2i Board Mini-Lora V1.2
- - DC/DC Converter
+ - ch2i Board Mini-Lora V1.2 ([Beschreibung und Bestückungsliste](https://github.com/hallard/Mini-LoRa))
+ - DC/DC Converter 3,3VDC / 5VDC
  - 868 MHz Antenne
 ------------------
 *optional - ja nach Aufbau / Anwendungsfall*
@@ -60,8 +60,8 @@ Nach den Vorbereitungen kann nun der Mikrokontroller mit der Software über die 
 
 **Quellen und Danksagung**
 
- - (folgt noch)
+ - [Charles](https://github.com/hallard) für das [Mini-LoRa Board](https://github.com/hallard/Mini-LoRa))
 
 
 --------------
-*`Stand: 01.08.2021 dasdigidings e.V. Caspar Armster & Jens Nowak`*
+*`Stand: 12.08.2021 dasdigidings e.V. Caspar Armster & Jens Nowak`*
